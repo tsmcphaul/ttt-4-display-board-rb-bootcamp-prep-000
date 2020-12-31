@@ -5,9 +5,9 @@
   
 def display_board(board)
 separator = "|"
-lines = "-----------"
 
-puts " #{board[0]} #{separator} #{board[1]} #{separator} #{board[2]} "
+
+puts " #{board[0]} | #{board[1]} #{separator} #{board[2]} "
 puts "-----------"
 puts " #{board[3]} #{separator} #{board[4]} #{separator} #{board[5]} "
 puts "-----------"
