@@ -29,9 +29,16 @@ def display_board
   puts "   |   |   "  
   
   def display_board
+  puts " "X"  | "X"  |"X"   "
+  puts "-----------"
   puts "   |   |   "
   puts "-----------"
-  puts "   | "X"  |   "
+  puts "   |   |   "
+  
+  def display_board
+  puts " "O"  | "O"  |"O"   "
+  puts "-----------"
+  puts "   |   |   "
   puts "-----------"
   puts "   |   |   "
   
