@@ -16,7 +16,7 @@ end
     board = [" "," "," "," ","X"," "," "," "," "]
   puts "   |   |   "
   puts "-----------"
-  puts "   | #{board[0]}  |   "
+  puts "   | #{board[5]}  |   "
   puts "-----------"
   puts "   |   |   "
  end 
