@@ -57,9 +57,16 @@ def display_board
   puts " O  |   |   "
   
   def display_board
-  puts "   |   |   "
+  puts " X  | X  |X   "
   puts "-----------"
-  puts "   | X  |   "
+  puts "  X | O  |  O "
   puts "-----------"
-  puts "   |   |   "
+  puts " X  | O  |O   "
+  
+  def display_board
+  puts " X  | O  | X  "
+  puts "-----------"
+  puts " O  | X  | X  "
+  puts "-----------"
+  puts " O  | X  | O  "
 end  
