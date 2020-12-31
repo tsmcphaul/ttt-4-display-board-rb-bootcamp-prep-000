@@ -11,25 +11,25 @@ def display_board
   def display_board
   puts "   |   |   "
   puts "-----------"
-  puts "   | "X"  |   "
+  puts "   | X  |   "
   puts "-----------"
   puts "   |   |   "
   
 def display_board
-  puts ""O"   |   |   "
+  puts "O   |   |   "
   puts "-----------"
   puts "   |   |   "
   puts "-----------"
   puts "   |   |   "  
 def display_board
-  puts " "O"  |   |   "
+  puts " O  |   |   "
   puts "-----------"
-  puts "   | "X"  |   "
+  puts "   | X  |   "
   puts "-----------"
   puts "   |   |   "  
   
   def display_board
-  puts " "X"  | "X"  |"X"   "
+  puts " X  | X  |X   "
   puts "-----------"
   puts "   |   |   "
   puts "-----------"
@@ -40,26 +40,26 @@ def display_board
   puts "-----------"
   puts "   |   |   "
   puts "-----------"
-  puts ""O"   |"O"   |"O"   "
+  puts "O  |O  |O  "
   
   def display_board
-  puts " "X"  |   |   "
+  puts " X  |   |   "
   puts "-----------"
-  puts "   | "X"  |   "
+  puts "   | X  |   "
   puts "-----------"
-  puts "   |   |"X"   "
+  puts "   |   |X   "
   
   def display_board
-  puts "   |   |"O"   "
+  puts "   |   |O   "
   puts "-----------"
-  puts "   | "O"  |   "
+  puts "   | O  |   "
   puts "-----------"
-  puts " "O"  |   |   "
+  puts " O  |   |   "
   
   def display_board
   puts "   |   |   "
   puts "-----------"
-  puts "   | "X"  |   "
+  puts "   | X  |   "
   puts "-----------"
   puts "   |   |   "
 end  
