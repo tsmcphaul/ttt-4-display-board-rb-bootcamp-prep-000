@@ -22,11 +22,18 @@ def display_board
   puts "-----------"
   puts "   |   |   "  
 def display_board
-  puts "   |   |   "
+  puts " "O"  |   |   "
   puts "-----------"
   puts "   | "X"  |   "
   puts "-----------"
   puts "   |   |   "  
+  
+  def display_board
+  puts "   |   |   "
+  puts "-----------"
+  puts "   | "X"  |   "
+  puts "-----------"
+  puts "   |   |   "
   
   
 end  
